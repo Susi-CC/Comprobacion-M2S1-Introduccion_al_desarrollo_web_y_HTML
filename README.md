@@ -4,4 +4,4 @@ El trabajo consistía en hacer un curriculum vitae utilizando html.
 
 Contenido:
 
-indes.html ------ Archivo html con la tarea en su totalidad
+index.html ------ Archivo html con la tarea en su totalidad
