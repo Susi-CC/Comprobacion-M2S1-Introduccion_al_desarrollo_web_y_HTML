@@ -3,6 +3,6 @@
 
 El trabajo consistía en hacer un curriculum vitae utilizando html.
 
-Contenido:
+#### Contenido:
 
 index.html ------ Archivo html con la tarea en su totalidad
